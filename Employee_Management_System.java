@@ -9,8 +9,8 @@ public class Employee_Management_System {
 
         mgr.addDepartment("Engineering");
         mgr.addDepartment("HR");
-        mgr.addEmployee("Alice Johnson", "Engineer", 75000);
-        mgr.addEmployee("Bob Smith", "HR Manager", 65000);
+        mgr.addEmployee("Ram", "Engineer", 75000);
+        mgr.addEmployee("Ramesh", "HR Manager", 65000);
 
         while (true) {
             printMenu();
